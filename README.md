@@ -4,3 +4,6 @@ Commit with different user
 New user
 
 tests
+
+git config --global user.email useremail
+git config --global user.name user
